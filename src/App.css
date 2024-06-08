@@ -1,0 +1,28 @@
+.navbar a{
+  font-size: 18px;
+}
+
+
+.footer-link{
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  transition: 0.3s ;
+}
+  
+
+.footer-link:hover{
+  margin-left: .625rem;
+  transition: 0.3s ;
+  color: chartreuse;
+  cursor: pointer;
+}
+
+.address-sec{
+  transition: 0.3s ;
+}
+
+.address-sec:hover{
+  color: chartreuse;
+  transition: 0.3s ;
+}
+
