@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/emart-fetch/static/css/main.f6f3fcc9.css",
+    "main.js": "/emart-fetch/static/js/main.2ea51505.js",
+    "static/js/453.020591cb.chunk.js": "/emart-fetch/static/js/453.020591cb.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/emart-fetch/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/contact.png": "/emart-fetch/static/media/contact.96c63c3c1d7b93fc0aec.png",
+    "static/media/about.png": "/emart-fetch/static/media/about.089f3557ff463d2cf78d.png",
+    "static/media/fontawesome-webfont.eot": "/emart-fetch/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/emart-fetch/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bg.jpg": "/emart-fetch/static/media/bg.02f09b6bede1cf8e3f89.jpg",
+    "static/media/bg3.jpg": "/emart-fetch/static/media/bg3.83048686b04ee0642345.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/emart-fetch/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/emart-fetch/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/bg2.jpg": "/emart-fetch/static/media/bg2.f7efd694c019b0daea91.jpg",
+    "index.html": "/emart-fetch/index.html",
+    "main.f6f3fcc9.css.map": "/emart-fetch/static/css/main.f6f3fcc9.css.map",
+    "main.2ea51505.js.map": "/emart-fetch/static/js/main.2ea51505.js.map",
+    "453.020591cb.chunk.js.map": "/emart-fetch/static/js/453.020591cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f3fcc9.css",
+    "static/js/main.2ea51505.js"
+  ]
+}
